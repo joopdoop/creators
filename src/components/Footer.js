@@ -27,7 +27,7 @@ const Footer = () => {
 
                 <Navbar.Collapse className="justify-content-end mr-2">
                 <Navbar.Text>
-                by <a href="https://twitter.com/jacintofleta" target="_blank" rel="noopener noreferrer">Jacin</a>
+                by <a href="https://twitter.com/jonastwt" target="_blank" rel="noopener noreferrer">Jonas</a>
                 </Navbar.Text>
                 </Navbar.Collapse>
                 
