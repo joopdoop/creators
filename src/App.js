@@ -11,7 +11,7 @@ import './App.css';
 import * as data from './database.json';
 
 // Google Analytics
-ReactGA.initialize('UA-165346270-2');
+ReactGA.initialize('G-49WTS3XHX1');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 function App() {
