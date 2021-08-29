@@ -95,7 +95,7 @@
         "metric":"products sold",
         "min_metric": 1.25,
         "max_metric": 1.35, 
-        "text": "If products cost 10$",
+        "text": "If products cost 11$",
         "text_color": "light",
         "link": "https://amazon.co.uk"
     }
