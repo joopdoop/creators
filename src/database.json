@@ -1,0 +1,103 @@
+[
+    {
+        "name": "YouTube", 
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg",
+        "background": "#FF0000", 
+        "metric":"visits",
+        "min_metric": 1000,
+        "max_metric": 1300, 
+        "text": "Depends on the video category",
+        "text_color": "light",
+        "link": "https://youtube.com"
+    },
+    {
+        "name": "Twitch", 
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Twitch_Glitch_Logo_White.svg/1024px-Twitch_Glitch_Logo_White.svg.png",
+        "background": "#6441a5", 
+        "metric":"subscribers",
+        "min_metric": 0.4,
+        "max_metric": 0.6, 
+        "text": "If all subs pay 4.99$ monthly",
+        "text_color": "light",
+        "link": "https://twitch.com"
+    },
+    {
+        "name": "Substack", 
+        "logo": "https://substack.com/img/substack.png",
+        "background": "#ffffff", 
+        "metric":"subscribers",
+        "min_metric": 0.25,
+        "max_metric": 0.35, 
+        "text": "If all subs pay 5$ monthly",
+        "text_color": "dark",
+        "link": "https://substack.com"
+    },
+    {
+        "name": "Patreon", 
+        "logo": "https://www.underconsideration.com/brandnew/archives/patreon_monogram.png",
+        "background": "#ff424e", 
+        "metric":"patrons",
+        "min_metric": 0.3,
+        "max_metric": 0.40, 
+        "text": "If all patreons pay 5$ monthly",
+        "text_color": "light",
+        "link": "https://patreon.com"
+    },
+    {
+        "name": "Check my Presets", 
+        "logo": "https://checkmypresets.com/logo.svg",
+        "background": "#000000", 
+        "metric":"presets sold",
+        "min_metric": 0.6,
+        "max_metric": 0.65, 
+        "text": "If all clients pay 2$",
+        "text_color": "light",
+        "link": "https://checkmypresets.com"
+    },
+    {
+        "name": "Udemy", 
+        "logo": "https://static.integromat.com/img/apps/udemy_256.png",
+        "background": "#ea5252", 
+        "metric":"courses sold",
+        "min_metric": 0.2,
+        "max_metric": 0.22, 
+        "text": "If all clients pay 9$",
+        "text_color": "light",
+        "link": "https://udemy.com"
+    },
+    {
+        "name": "Buy me a Coffee", 
+        "logo": "https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-2.svg",
+        "background": "#FFDD00", 
+        "metric":"coffees",
+        "min_metric": 0.27,
+        "max_metric": 0.33, 
+        "text": "If all clients pay 5$ monthly",
+        "text_color": "dark",
+        "link": "https://buymeacoffee.com"
+    } 
+    ,
+    {
+        "name": "Kindle", 
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/71ZCJYuOqIL.png",
+        "background": "#0a5270", 
+        "metric":"ebooks sold",
+        "min_metric": 0.17,
+        "max_metric": 0.22, 
+        "text": "If all clients pay 10$",
+        "text_color": "light",
+        "link": "https://amazon.com"
+    },
+    {
+        "name": "Amazon Affiliate", 
+        "logo": "https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-amazon-512.png",
+        "background": "#FF9900", 
+        "metric":"products sold",
+        "min_metric": 1.25,
+        "max_metric": 1.35, 
+        "text": "If products cost 10$",
+        "text_color": "light",
+        "link": "https://amazon.com"
+    }
+
+]
