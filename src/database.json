@@ -102,7 +102,7 @@
         "name": "OnlyFans", 
         "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/OnlyFans_logo.svg",
         "background": "#D4F1F4", 
-        "metric":"Fans",
+        "metric":"fans",
         "min_metric": 0.6,
         "max_metric": 0.8, 
         "text": "If show costs 10$",
@@ -113,11 +113,22 @@
         "name": "Spotify", 
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png",
         "background": "#F2F1F0", 
-        "metric":"Streams",
+        "metric":"streams",
         "min_metric": 229,
         "max_metric": 300, 
-        "text": "Depends on which country",
+        "text": "Depends on streaming country",
         "text_color": "dark",
         "link": "https://spotify.com"
+    },
+    {
+        "name": "Gumroad", 
+        "logo": "https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609d65b9f106e215db27752c_gumroad-wordmark.svg",
+        "background": "#21B6A8", 
+        "metric":"products sold",
+        "min_metric": 2.5,
+        "max_metric": 3, 
+        "text": "if product cost 19",
+        "text_color": "dark",
+        "link": "https://gumroad.com"
     }
 ]
