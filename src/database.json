@@ -75,8 +75,7 @@
         "text": "If all clients pay 5$ monthly",
         "text_color": "dark",
         "link": "https://buymeacoffee.com"
-    } 
-    ,
+    },
     {
         "name": "Kindle", 
         "logo": "https://images-na.ssl-images-amazon.com/images/I/71ZCJYuOqIL.png",
@@ -98,6 +97,16 @@
         "text": "If products cost 10$",
         "text_color": "light",
         "link": "https://amazon.com"
-    }
-
+    },
+    {
+        "name": "OnlyFans", 
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/OnlyFans_logo.svg/512px-OnlyFans_logo.svg.png",
+        "background": "#D4F1F4", 
+        "metric":"products sold",
+        "min_metric": 0.6,
+        "max_metric": 0.8, 
+        "text": "If show costs 10$",
+        "text_color": "light",
+        "link": "https://onlyfans.com"
+    },
 ]
