@@ -100,13 +100,24 @@
     },
     {
         "name": "OnlyFans", 
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/OnlyFans_logo.svg/512px-OnlyFans_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/OnlyFans_logo.svg",
         "background": "#D4F1F4", 
-        "metric":"products sold",
+        "metric":"Fans",
         "min_metric": 0.6,
         "max_metric": 0.8, 
         "text": "If show costs 10$",
         "text_color": "dark",
         "link": "https://onlyfans.com"
+    },
+    {
+        "name": "Spotify", 
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png",
+        "background": "#D4F1F4", 
+        "metric":"Streams",
+        "min_metric": 229,
+        "max_metric": 300, 
+        "text": "Depends on which country streams come from",
+        "text_color": "dark",
+        "link": "https://spotify.com"
     }
 ]
