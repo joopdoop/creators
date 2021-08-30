@@ -103,8 +103,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/OnlyFans_logo.svg",
         "background": "#D4F1F4", 
         "metric":"fans",
-        "min_metric": 0.6,
-        "max_metric": 0.8, 
+        "min_metric": 0.18,
+        "max_metric": 0.2, 
         "text": "If show costs 10$",
         "text_color": "dark",
         "link": "https://onlyfans.com"
@@ -125,10 +125,10 @@
         "logo": "https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609d65b9f106e215db27752c_gumroad-wordmark.svg",
         "background": "#21B6A8", 
         "metric":"products sold",
-        "min_metric": 2.5,
-        "max_metric": 3, 
+        "min_metric": 0.17,
+        "max_metric": 0.22, 
         "text": "if product cost 19",
-        "text_color": "dark",
+        "text_color": "light",
         "link": "https://gumroad.com"
     }
 ]
