@@ -112,11 +112,11 @@
     {
         "name": "Spotify", 
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png",
-        "background": "#D4F1F4", 
+        "background": "#F2F1F0", 
         "metric":"Streams",
         "min_metric": 229,
         "max_metric": 300, 
-        "text": "Depends on which country streams come from",
+        "text": "Depends on which country",
         "text_color": "dark",
         "link": "https://spotify.com"
     }
