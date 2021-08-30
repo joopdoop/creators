@@ -45,7 +45,7 @@
     },
     {
         "name": "Check my Presets", 
-        "logo": "https://checkmypresets.com//static/media/nordiclogo.348ed5e7.svg",
+        "logo": "https://checkmypresets.com/logo.svg",
         "background": "#000000", 
         "metric":"presets sold",
         "min_metric": 0.6,
@@ -95,7 +95,7 @@
         "metric":"products sold",
         "min_metric": 1.25,
         "max_metric": 1.35, 
-        "text": "If products cost 11$",
+        "text": "If products cost 10$",
         "text_color": "light",
         "link": "https://amazon.com"
     }
