@@ -46,7 +46,7 @@
     {
         "name": "Check my Presets", 
         "logo": "https://checkmypresets.com/logo.svg",
-        "background": "#000000", 
+        "background": "#ffffff", 
         "metric":"presets sold",
         "min_metric": 0.6,
         "max_metric": 0.65, 
