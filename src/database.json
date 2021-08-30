@@ -122,13 +122,13 @@
     },
     {
         "name": "Gumroad", 
-        "logo": "https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609d65b9f106e215db27752c_gumroad-wordmark.svg",
-        "background": "#21B6A8", 
+        "logo": "https://www.vectorlogo.zone/logos/gumroad/gumroad-ar21.svg",
+        "background": "#ffffff", 
         "metric":"products sold",
-        "min_metric": 0.17,
-        "max_metric": 0.22, 
-        "text": "if product cost 19",
-        "text_color": "light",
+        "min_metric": 0.085,
+        "max_metric": 0.11, 
+        "text": "if product cost 19$",
+        "text_color": "dark",
         "link": "https://gumroad.com"
     }
 ]
