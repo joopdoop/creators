@@ -122,7 +122,7 @@
     },
     {
         "name": "Gumroad", 
-        "logo": "https://www.vectorlogo.zone/logos/gumroad/gumroad-ar21.svg",
+        "logo": "https://www.vectorlogo.zone/logos/gumroad/gumroad-icon.svg",
         "background": "#ffffff", 
         "metric":"products sold",
         "min_metric": 0.085,
