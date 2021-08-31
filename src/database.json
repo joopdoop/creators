@@ -130,5 +130,38 @@
         "text": "if product cost 19$",
         "text_color": "dark",
         "link": "https://gumroad.com"
+    },
+    {
+        "name": "Instagram calculator", 
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+        "background": "#800080", 
+        "metric":"Followers",
+        "min_metric": 20,
+        "max_metric": 100, 
+        "text": "Depends on country",
+        "text_color": "light",
+        "link": "https://instagram.com"
+    },
+    {
+        "name": "Superpeer calculator", 
+        "logo": "https://d1gwdzz1cizk7o.cloudfront.net/images/projects/591ba0a6-8dd3-4fc6-ad82-db3bb610bf19/1606310718.png",
+        "background": "#ffff00", 
+        "metric":"Sessions",
+        "min_metric": 0.06,
+        "max_metric": 0.08, 
+        "text": "If your rate is $20",
+        "text_color": "dark",
+        "link": "https://superpeer.com"
+    },
+    {
+        "name": "Shopify calculator", 
+        "logo": "https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg",
+        "background": "#ffffff", 
+        "metric":"products sold",
+        "min_metric": 0.057,
+        "max_metric": 0.061, 
+        "text": "if product cost 19$",
+        "text_color": "dark",
+        "link": "https://shopify.com"
     }
 ]
