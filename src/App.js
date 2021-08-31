@@ -34,14 +34,13 @@ function App() {
             <h1 className="text-center">How much do you want to earn monthly?</h1>
           </Col>
       </Row>
-      
 
       <Row className="justify-content-center mt-4">
           <Col xs={12} md={8}>
             <center><Input money={money} setMoney={setMoney}/></center>
           </Col>
         </Row>
-
+        <p className="text-center">Calculations are based on platform's fee structure</p>
         <Row className="justify-content-center">
           {data.default.map((product, idx) => 
         
