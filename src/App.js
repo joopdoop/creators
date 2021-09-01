@@ -40,7 +40,7 @@ function App() {
             <center><Input money={money} setMoney={setMoney}/></center>
           </Col>
         </Row>
-        <p className="text-center">Calculations are based on 20% churn and platform's fee structure</p>
+        <p className="text-center">Calculations are based on platform's fee structure</p>
         <Row className="justify-content-center">
           {data.default.map((product, idx) => 
         
