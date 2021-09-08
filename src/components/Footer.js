@@ -19,7 +19,7 @@ const Footer = () => {
                 />{' '}
                 </Navbar.Brand>
                 <Nav>
-                <Nav.Link href="https://twitter.com/messages/compose?recipient_id=943723808" target="_blank">Advertising</Nav.Link>
+                <Nav.Link href="https://mightynetworks.com" target="_blank">Advertising</Nav.Link>
                 <Nav.Link href="https://creators.substack.com/welcome" target="_blank" rel="noopener noreferrer">Newsletter</Nav.Link>
                 </Nav>
 
@@ -27,7 +27,7 @@ const Footer = () => {
 
                 <Navbar.Collapse className="justify-content-end mr-2">
                 <Navbar.Text>
-                by <a href="https://twitter.com/jonastwt" target="_blank" rel="noopener noreferrer">Jonas</a>
+                by <a href="https://mightynetworks.com" target="_blank" rel="noopener noreferrer">mightynetworks</a>
                 </Navbar.Text>
                 </Navbar.Collapse>
                 
